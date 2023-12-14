@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soares-ismael/" target="_blank">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
