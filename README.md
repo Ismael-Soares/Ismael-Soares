@@ -39,13 +39,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">
-  
-  <a href="mailto:bellsoares3@@gmail.com" target="_blank">
-    <a href="https://skillicons.dev"></a>
-    <a href = "mailto: bellsoares3@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-
-</p>
-
 
 
